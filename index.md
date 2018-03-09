@@ -14,6 +14,21 @@
         width: 180px;
     }
 
+    img[alt=knuckles],
+    img[alt=starbucks],
+    img[alt=toddlers-read],
+    img[alt=addidas],
+    img[alt=play-stop-pause] {
+        max-width: 400px;
+    }
+
+    img[alt=participation-ribbon],
+    img[alt=bronze],
+    img[alt=silver],
+    img[alt=gold] {
+        max-height: 4em;
+    }
+
     .algorithm-purpose {
         float: left;
         width: 300px;
@@ -50,15 +65,33 @@
 </style>
 
 # How to solve the Rubik's cube
+![Unsolved Cube](unsolved-cube.png)
 
 # Why?
 Everyone **CAN** and **SHOULD** solve the cube **at least once** in their lifetime.  
  
 - Impress your friends and family
-- Soul-mate bait
+- Soul-mate bait 
+![check-me-out](check-me-out.gif)
 - Stress relief
-- Prevent Alzheimers
+- Exercise your brain
 - Win prizes!!!
+![win-prizes](win-prizes.jpg)
+
+# I don't think I have what it takes
+- 43,252,003,274,489,856,000 possible permutations
+![mind-blown](mind-blown.gif)
+- God can solve it with less than 20 moves everytime!
+![eye-roll](eye-roll.gif)
+- It took 35 CPU-years of idle computer time (donated by Google) to prove God's Number!
+- **Why are you so intimidated!!!**
+
+# What you need  
+- A 3x3x3 Rubik's cube
+- Passion for learning
+- Tolerance for mistakes
+- Memory (memory is a muscle, exercise it!)
+- Spacial awareness (comes w/ practice)
 
 # What I'll Cover   
 - A way to solve the cube
@@ -70,22 +103,16 @@ Everyone **CAN** and **SHOULD** solve the cube **at least once** in their lifeti
 - How to solve for speed
 - How to win at life with cube solving skills
 
-# What you need  
-- A 3x3x3 Rubik's cube
-- Passion for learning
-- Tolerance for mistakes
-- Memory (memory is a muscle, exercise it!)
-- Spacial awareness (comes w/ practice)
-
-# Tiers of Memorization
-## As-is Memory
+# Tiers of Memorization 
+## As-is Memory ![participation-ribbon](participation-ribbon.jpg)
 Remembering things as they are without an association, visual queue, or muscle memory:  
 
 - Volatile, can easily be forgotten if not used frequently
 - Examples: 
     - remembering phone numbers, SSN, passwords
+    ![digits-of-pi](digits-of-pi.png)
 
-## Associative Memory
+## Associative Memory ![bronze](bronze.jpg)
 Aiding memorization by linking a related or unrelated idea to the item needing remembering.
 
 - Less volatile when one or more items are associated to a memory
@@ -94,18 +121,23 @@ Aiding memorization by linking a related or unrelated idea to the item needing r
 - Examples: 
     - Musical notes on lines of treble staff: Every Good Boy Does Fine
     - Musical notes between lines of treble staff: F A C E
+    ![treble-notes](treble-notes.jpg)
     - Remembering days in month with knuckles  
+    ![knuckles](knuckles.png)
     
-## Visual Memory
+## Visual Memory ![silver](silver.jpg)
 Using visual queues to trigger a memory or response
 
 - Pictures are worth a thousand *memories*
 - Icons, Logos, Colors, Patterns, Shapes
 - Examples:
-    - (icons / popular logos here)
+    ![play-stop-pause](play-stop-pause.jpg)
+    ![starbucks](starbucks.png)
+    ![addidas](addidas.jpg)
     - Toddlers can't read but...
+    ![toddlers-read](toddlers-read.jpg)
 
-## Muscle Memory
+## Muscle Memory ![gold](gold.jpg)
 Recalling repetitive movements and responses with little to no concious effort
 
 - Body can auto *magically* establish memory w/ repetitive tasks
@@ -118,6 +150,8 @@ Recalling repetitive movements and responses with little to no concious effort
 
 # Let's Get Started!
 # Terms and Vocabulary
+![rubiks-inside](rubiks-inside.png)
+
 ## Centers
 <iframe height="150" width="250px" scrolling="no" frameborder="0" src="https://rubiks3x3.com/algorithm/?fields=ddddnddddddddnddddddddnddddddddnddddddddnddddddddndddd&sett=000010&bg=FFFFFF"></iframe> 
 ## Edges
@@ -280,6 +314,7 @@ Run algorithm associated with the following patterns (#1, #2, or #3).  If there 
 </div>
 
 # Congratulations
+![Celebrate](celebration.gif)
 
 # What's Next
 Keep practicing.  Once you've *installed* to muscle memory then you've achieved awesomeness, and now it's time to show off to your friends and family.
@@ -298,7 +333,7 @@ Need more of a challenge?
 - Pair the edges (technique)
 - algorithm to swap last two edges
 - It's a 3x3x3
-- JUST KIDDING! Parity cases!!!
+- WAIT! WHAT THE... Parity cases!!!
 
 ## Go for speed
 - Get a speed cube
@@ -306,7 +341,7 @@ Need more of a challenge?
 - More techniques, More algorithms, More patterns to remember, More spacial awareness
 - Practice solving with different colors as starting point
 - Achieve sub 15 seconds to be scary cool
-- Current world record: **4.9 seconds**
+- Current world record: **4.59 seconds**
 
 # Motivating or Discouraging?
 - World record (video)
