@@ -29,6 +29,10 @@
         max-height: 4em;
     }
 
+    img[alt=edge-swap] {
+        max-width: 25%;
+    }
+
     .algorithm-purpose {
         float: left;
         width: 300px;
@@ -325,6 +329,7 @@ Need more of a challenge?
 - Solve the centers (technique)
 - Pair the edges (technique)
 - algorithm to swap last two edges
+![edge-swap](edge-swap.png)
 - It's a 3x3x3!
 
 ## Rubik's Revenge (4x4x4) (6x6x6) (evenxevenxeven)
@@ -332,8 +337,11 @@ Need more of a challenge?
 - Solve the centers (technique)
 - Pair the edges (technique)
 - algorithm to swap last two edges
+![edge-swap](edge-swap.png)
 - It's a 3x3x3
-- WAIT! WHAT THE... Parity cases!!!
+- **WAIT! WHAT THE...** Parity cases!!!
+![4x4x4-parity](4x4x4-parity.png)
+![eww](eww.gif)
 
 ## Go for speed
 - Get a speed cube
@@ -346,7 +354,7 @@ Need more of a challenge?
 # Motivating or Discouraging?
 [![World Record](https://img.youtube.com/vi/5x8jgGX3iNM/0.jpg)](https://www.youtube.com/watch?v=5x8jgGX3iNM)
 
-[![Robot Sovling Cube](https://img.youtube.com/vi/N1b6iPYj3YQ/0.jpg)](https://www.youtube.com/watch?v=N1b6iPYj3YQ)
+[![Robot Sovling Cube](https://img.youtube.com/vi/nt00QzKuNVY/0.jpg)](https://www.youtube.com/watch?v=nt00QzKuNVY)
 
 [![Cube Pop 2](https://img.youtube.com/vi/MBsyk9R5JcI/0.jpg)](https://youtu.be/MBsyk9R5JcI?t=86)
 
