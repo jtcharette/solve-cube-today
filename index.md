@@ -344,8 +344,11 @@ Need more of a challenge?
 - Current world record: **4.59 seconds**
 
 # Motivating or Discouraging?
-- World record (video)
-- Robot solving cube (video)
-- Big cube breaking (video)
-- Robot vs Human (video)
+[![World Record](https://img.youtube.com/vi/5x8jgGX3iNM/0.jpg)](https://www.youtube.com/watch?v=5x8jgGX3iNM)
+
+[![Robot Sovling Cube](https://img.youtube.com/vi/N1b6iPYj3YQ/0.jpg)](https://www.youtube.com/watch?v=N1b6iPYj3YQ)
+
+[![Cube Pop 2](https://img.youtube.com/vi/MBsyk9R5JcI/0.jpg)](https://youtu.be/MBsyk9R5JcI?t=86)
+
+[![Cube Pop 1](https://img.youtube.com/vi/MBsyk9R5JcI/0.jpg)](https://youtu.be/MBsyk9R5JcI?t=147)
 
