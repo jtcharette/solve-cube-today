@@ -218,7 +218,7 @@ A sequence of moves designed to manipulate the cube in a **specific** way
 #### Algorithms
 <div class="horizontal-alignment">
     <div class="algorithm-purpose">
-        ![algorithm-purpose](algorithm_position_middle_edge_right.png)
+        <img alt="algorithm-purpose" src="algorithm_position_middle_edge_right.png" />
         <p class="algorithm-moves">D' R' D R F' R F R'</p>
     </div>
     <iframe height="270" width="280px" scrolling="no" frameborder="0" src="https://rubiks3x3.com/algorithm/?moves=drDRfRFr&fields=wwwwwwwwwrrrdrddddbbbdbddbdooododdddgggdgdddddoddddddd"></iframe> 
